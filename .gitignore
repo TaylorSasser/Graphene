@@ -41,6 +41,5 @@
 out
 gen
 
-# Build folder
-build/release
 build/debug
+build/release
